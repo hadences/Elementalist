@@ -1,6 +1,6 @@
 ﻿# Elementalist
 
-![Banner](https://via.placeholder.com/1200x300)
+![Banner](https://img.itch.zone/aW1hZ2UvMzI0MzU5NS8xOTM2OTk3OS5wbmc=/250x600/Bb4D%2Bp.png)
 
 ## 🚀 Description
 This is a retro-style game built using Unity. After intensive coding from ProjectJJK, I figured I come back to game dev - starting with a simple project.
